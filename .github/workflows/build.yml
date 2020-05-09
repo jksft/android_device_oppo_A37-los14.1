@@ -1,4 +1,4 @@
-name: LineageOS building
+name: LineageOS
 on:
   push:
     branches:
